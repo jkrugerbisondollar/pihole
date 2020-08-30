@@ -7,3 +7,4 @@ facebook.com
 twitch.com
 twitter.com
 reddit.com
+old.reddit.com
